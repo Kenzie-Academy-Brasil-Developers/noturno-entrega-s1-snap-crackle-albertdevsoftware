@@ -13,7 +13,7 @@ function snapCrackle(){
          saidaArr.push(segunda);
 }
          else if (valor %5 === 0 || valor %2 !== 1) {
-         SaidaArr.push(valor);
+         saidaArr.push(valor);
 }
         else if (valor %2 !== 0 ){
             saidaArr.push(primeira);
